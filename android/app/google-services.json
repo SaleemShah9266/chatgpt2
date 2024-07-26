@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927157229296",
+    "project_id": "chatbot-ddc4b",
+    "storage_bucket": "chatbot-ddc4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927157229296:android:26ec1dd1c7dda53889d435",
+        "android_client_info": {
+          "package_name": "com.example.chatgpt2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC42S9Bik7zl07JAiAcQvY038ZFWfmdrp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
